@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(46, 101, 112);
+  }
+  hr{
+    background-color: chartreuse;
+    border-style: dotted;
+    height:2px;
+    width: 30%;
+  }
